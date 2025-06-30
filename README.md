@@ -1,6 +1,6 @@
 # MERMAID - Fashion Clothing Website 🌊👗✨
 
-Welcome to **MERMAID**, a student-created online fashion brand designed by **Varnika** and **Radhya**.
+Welcome to **MERMAID**, a student-created online fashion brand designed by **Varnika** and **Aradhya**.
 
 ## 👑 About MERMAID:
 
